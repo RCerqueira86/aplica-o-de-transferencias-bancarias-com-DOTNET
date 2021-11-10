@@ -1,0 +1,16 @@
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\Dio.Banck.exe
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\Dio.Banck.deps.json
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\Dio.Banck.runtimeconfig.json
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\Dio.Banck.runtimeconfig.dev.json
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\Dio.Banck.dll
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\ref\Dio.Banck.dll
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\bin\Debug\net5.0\Dio.Banck.pdb
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.csproj.AssemblyReference.cache
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.AssemblyInfoInputs.cache
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.AssemblyInfo.cs
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.dll
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\ref\Dio.Banck.dll
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.pdb
+C:\workspace\DIO\Aplicacao transferencia Bancaria\Dio.Banck\obj\Debug\net5.0\Dio.Banck.genruntimeconfig.cache
